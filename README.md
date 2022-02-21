@@ -6,7 +6,7 @@
 
 ## <a id="getting-started">Getting Started</a>
 
-1. `$ git clone https://github.com/mikechabot/smtp-email-spoofer-py.git`
+1. `$ https://github.com/Sumit24-prog/EmailSpoofing.git`
 3. Activate `virtualenv`
 2. `$ pip install -r requirements.txt`
 3. `$ python spoof.py`
@@ -44,21 +44,21 @@ $ py spoof.py wizard
 
 1. Enter the SMTP server information to establish a connection over TLS:
 
-<img src='https://raw.githubusercontent.com/mikechabot/image-assets/master/email-spoofer-py-tls-session.png' alt='logo' aria-label='https://github.com/mikechabot/email-spoofer-py-tls-session' />
+<img src='' alt='logo' aria-label='' />
 
 2. Optionally provide credentials to login to the SMTP server:
 
-<img src='https://raw.githubusercontent.com/mikechabot/image-assets/master/email-spoofer-py-auth.png' alt='logo' aria-label='https://github.com/mikechabot/email-spoofer-py-auth' />
+<img src='' alt='logo' aria-label='' />
 
 3. Compose the forged message:
 
 > Load the HTML message body from a file, or compose it within the shell
 
-<img src='https://raw.githubusercontent.com/mikechabot/image-assets/master/email-spoofer-py-compose-msg.png' alt='logo' aria-label='https://github.com/mikechabot/email-spoofer-py-compose-msg' />
+<img src='' alt='logo' aria-label='' />
 
 4. Send the message:
 
-<img src='https://raw.githubusercontent.com/mikechabot/image-assets/master/email-spoofer-py-send.png' alt='logo' aria-label='https://github.com/mikechabot/email-spoofer-py-send' />
+<img src='' alt='logo' aria-label='' />
 
 ----
 
@@ -94,10 +94,10 @@ required arguments:
 
 > If `--noauth` is not specified, `--username` and `--password` are required.
 
-<img src='https://raw.githubusercontent.com/mikechabot/image-assets/master/email-spoofer-py-cli.png' alt='logo' aria-label='https://github.com/mikechabot/email-spoofer-py-cli' />
+<img src='' alt='logo' aria-label='' />
 
 ----
 
 ## Result
 
-<img src='https://raw.githubusercontent.com/mikechabot/image-assets/master/email-spoofer-py-result.png' alt='logo' aria-label='https://github.com/mikechabot/email-spoofer-py-result' />
+<img src='' alt='logo' aria-label='' />

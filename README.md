@@ -44,17 +44,17 @@ $ py spoof.py wizard
 
 1. Enter the SMTP server information to establish a connection over TLS:
 
-<img src='./../1.JPG' alt='logo' />
+<img src='./1.JPG' alt='logo' />
 
 2. Optionally provide credentials to login to the SMTP server:
 
-<img src='./../2.JPG' alt='logo'  />
+<img src='./2.JPG' alt='logo'  />
 
 3. Compose the forged message:
 
 > Load the HTML message body from a file, or compose it within the shell
 
-<img src='./../3.JPG' alt='logo'  />
+<img src='./3.JPG' alt='logo'  />
 
 4. Send the message:
 

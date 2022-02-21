@@ -58,7 +58,7 @@ $ py spoof.py wizard
 
 4. Send the message:
 
-<img src='' alt='logo' aria-label='' />
+<img src='./4.JPG' alt='logo' aria-label='' />
 
 ----
 

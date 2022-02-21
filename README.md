@@ -44,17 +44,17 @@ $ py spoof.py wizard
 
 1. Enter the SMTP server information to establish a connection over TLS:
 
-<img src='' alt='logo' aria-label='' />
+<img src='https://github.com/Sumit24-prog/EmailSpoofing/1.JPG' alt='logo' aria-label='https://github.com/Sumit24-prog/EmailSpoofing/1.JPG' />
 
 2. Optionally provide credentials to login to the SMTP server:
 
-<img src='' alt='logo' aria-label='' />
+<img src='https://github.com/Sumit24-prog/EmailSpoofing/2.JPG' alt='logo' aria-label='https://github.com/Sumit24-prog/EmailSpoofing/2.JPG' />
 
 3. Compose the forged message:
 
 > Load the HTML message body from a file, or compose it within the shell
 
-<img src='' alt='logo' aria-label='' />
+<img src='https://github.com/Sumit24-prog/EmailSpoofing/3.JPG' alt='logo' aria-label='https://github.com/Sumit24-prog/EmailSpoofing/3.JPG' />
 
 4. Send the message:
 
